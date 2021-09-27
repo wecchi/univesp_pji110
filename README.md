@@ -12,3 +12,7 @@ Inexistência de plataforma para pré-cadastramento pelo próprio cidadão no si
 ## Solução
 
 Criação de uma página web para que a pessoa possa realizar seu pré-cadastramento e agilizar o acolhimento quando essa pessoa pertencer aos [grupos de risco](https://conselho.saude.gov.br/recomendacoes-cns/1103-recomendac-a-o-no-020-de-07-de-abril-de-2020) estabelecido pelo Ministério da Saúde.
+
+## Trajetória dos trabalhos
+
+![Desafio](Trajetoria_PI.png)
